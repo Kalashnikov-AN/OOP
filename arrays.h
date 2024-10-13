@@ -93,6 +93,10 @@ T* arr_output_file(const string &fname, size_t n){
 			return arr; 
 		}
 	}
+	template <typename T>
+	void array_input_bin(){
+		return 0;
+	}
 	/// Заполнение вектора v элементами типа T вручную
 	template <typename T>
 	void vect_input(vector<T> &v){
