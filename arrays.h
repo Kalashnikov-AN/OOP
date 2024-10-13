@@ -150,7 +150,7 @@ T* arr_output_file(const string &fname, size_t n){
 			f.close(); 
 		}
 	}
-}
+
 /// Пространство имён с функциями для работы с массивами
 namespace arrays{
 	/// Возвращает количество элементов в файле fname
