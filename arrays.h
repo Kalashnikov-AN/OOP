@@ -93,9 +93,7 @@ T* arr_output_file(const string &fname, size_t n){
 			return arr; 
 		}
 	}
-	template <typename T>
-	void array_input_bin(){
-		return 0;
+	//todo: функции для бинарных файлов
 	}
 	/// Заполнение вектора v элементами типа T вручную
 	template <typename T>
